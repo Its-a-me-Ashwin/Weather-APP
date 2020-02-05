@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(236, 207, 169);
+} 
+
+.grad{
+    margin-top: 40px;
+    width: 800px;
+    overflow: hidden;
+    background-color: blanchedalmond;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 25px 0 rgba(0, 0, 0, 0.19);
+}
+
+.grad{
+    position: relative;
+    margin: auto;
+    width: 800px;
+    height: 580px;
+    background-color: blanchedalmond;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 25px 0 rgba(0, 0, 0, 0.19);
+}
+
+.title{
+    font-weight: bold;
+    font-size: 25px;
+}
+.season:hover{
+    opacity: 75%;
+}
+
+.sc{
+
+}
+
+.container-search{
+   
+}
+.day{
+    font-weight: bold;
+    font-size:10px;
+    word-wrap:break-word;
+    width:2px;
+    margin-top:10px;
+    border-left: 2px solid black;
+}
+.temp{
+    padding-left: 100%;
+    font-size: medium;
+    font-weight: bold;
+}
+.mid{
+    margin: 0 auto;
+    float: None;
+}
+.date{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    font-weight: lighter;
+}
+
+.temp-mid{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter    ;
+    font-size: 35px;
+    width:2px;
+    border-left: 2px solid black;
+    /*padding-right: 125%;*/
+}
+.text-current{
+
+}
+
+.date{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: large;
+}
+
+.bg-img{
+    border-radius: 48%;
+}
